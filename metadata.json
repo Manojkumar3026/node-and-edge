@@ -1,0 +1,5 @@
+{
+  "name": "FlowGenius (Visio Clone)",
+  "description": "A professional-grade diagramming tool powered by React Flow and Gemini 2.5 Flash. Create flowcharts manually or generate them instantly with AI.",
+  "requestFramePermissions": []
+}
